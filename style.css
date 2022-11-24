@@ -23,5 +23,5 @@ body {
     margin: auto;
     border-radius: 10px;
     color: white;
-    background-color: black;
+    background-color: black !important;
 }
